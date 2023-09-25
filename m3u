@@ -1,28 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",free tv
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ffreetv%2F&genre=Entretenimiento&ic=&us_privacy=&coppa=0&user_id=&ip=186.22.16.6&ipv6=&c_duration=3600&c_producer=freetv&c_rating=&c_lang=es&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F116.0.0.0+Safari%2F537.36&hls_marker=1&content_channel=FreeTV&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",MMC HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/82a7e270-3794-4603-b012-6dbe06fe083e/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",cine REAL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/05076a78-63f3-4369-acde-1770c5209e8c/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",cine sureño
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/aecfa43e-1abe-402e-8c3b-b9eab4b71250/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",flash
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/3de76b1a-e9fd-4b2c-8af6-194901b09243/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",horrorfy
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/49cfe312-a1db-4aab-b22b-29ea5fe9c4b2/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",juntos
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/3dcac25d-9f03-4aef-8f85-b5363754e949/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",saber más
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/111439d8-a499-4e48-8582-89f30bae3684/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",top cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/40e95a9b-3c7d-44b1-baab-67bbc42e616e/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.estamosenlinea.com.ve/wp-content/uploads/2020/12/freetv.jpg"group-title="tv en vivo",tu cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/c541bb5f-f1d0-4b21-9770-f3f35d1f611e/4.m3u8
-
 
 #EXTINF:-1 tvg-logo=""group-title="kids",el reino infantil
 https://dcs3-live.mp.lura.live/server/podserve/0xM3MxF6dBX9TqOA/rendition.m3u8?track=video-5&ts=1695615887&psi=35a9c1cbda33f964a07b049081e170ca&encp=WDtWS65VWe5TwjjdyjlGlw:GPsFrSmNmOlYZ3pnNWLTKTI9FqLmcUywtNdhqyoGaZ1JG7SGIB2-8tuvpq6SJLwkYNnkpE3xC8spY1tDTWRmeyCsecj8A_lnSDqYEja51mCZ6zTAt7XF9NDHp8De2D9Fe6TBzPaF2B2bK84RMp4xncdoWArW8eiUmkSwgGFjHl3Kg9_zAMjvRpfqB-7g1smF85fp6iRHOumrnP7voMQPnWME7ArE-a6NqcXwqufJqVpzlxKHtxJth-WMDT5dAwCFCuLUGl-i60zXjSkyCmUSlmsGLAjdz0I5JC9kXTnkChO9MHFL5DIkyOVI9IW4qfFYsSdT9J2pZd_R2VhzpKDMod_nSuBgP398YBxfdT3R9gMMrmsqRi1L62jagQT08aW6qfLiKwgLywAyVdvbEW8KRdbwWFlipLTdL_Ucj2I0IvAQFvPPZAGb_ZcD5rHWhwrVPrWFGGGpn-4ZXl3GBYerDesj7S9pGvp-ExtD7XxHHhkV6_u3XW7cgkGmxYe5B-7Okfrp-JdWLTZYYu79Ai4IkkdOG2Ltoztv7D8g-D6aLzXbEx_5dDMqwmA-i8-qmMU33EsIiW4fQUdL5K8ccnvTAmV-OU22OqEL_OWyPJIsRrqo07Vs3AYkiv1hkDvogsJHNvrhLauWauGwyFTX3vsQ0K5yt83vJjA6dgk3gvSDPcXjAcZX4SfrOseRfcyYg33ryL9xqOtgCV03lpunz6XIuzkN8ewCNneY2TT7WpB4QVw1-vyVnydH3_LuNTRNqcrVv--hztYC9HCOEbuSDVqLSpSKikJd8Fn0YYKtSiJGWZZeVSEWINKV-VCvhjolt9zlYwJT761g6VW0FqVot05w21W36ROI4Cgz1EAS62e4t1uTKIL_107bBkkTpc4GHjf1xhEoHRNnJuPKsevu9hJlr1-NfRzSDj-Gs9I2-DCFfDjXsihbmuaaqT3nRbb7ct7bOtVB3E2wLogqUTSzRwOkZ3wcSDq33UZ1DW5tsAMPzWboRuwQCVO6QHrwUXxC_5QqClcIXbjlla49rW7jRYvS5KsGe9CKHthVFhnGXfkkISj0hurW8GiqqLFtcSHwYe1e&pcqx=687783dc7670a1b8053e46f61e56cc41&sid=[[STREAMID]]
