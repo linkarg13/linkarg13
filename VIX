@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo=""group-title="deportes",TyC SPORT
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="deportes",el toro tv
-https://edge-nodo-003.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
